@@ -3,12 +3,12 @@
     "short_name": "horários",
     "icons": [
         {
-            "src": "images/imagem.png",
+            "src": "img/hr.png",
             "sizes": "256x256",
             "type":"image/png"
         },
         {
-            "src": "images/imagem.png",
+            "src": "img/hr1.png",
             "sizes": "512x512",
             "type":"image/png"
         }
