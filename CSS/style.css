@@ -1,5 +1,6 @@
 body {
-    font-family: sans-serif;
+    font-family: courier;
+    background-color: #72afcb;
 }
 
 html, .fullscreen {
@@ -16,4 +17,9 @@ html, .fullscreen {
 
 .title {
     font-size: 3rem;
+    color: rgb(220, 227, 233);
+}
+
+a {
+    color: rgb(220, 227, 233);
 }
